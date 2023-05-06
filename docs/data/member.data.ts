@@ -41,6 +41,7 @@ lc|数据+后端工程师| 希望通过zkp入门web3.0
 Henry|区块链开发|做zkevm,
 0x13600702|yukino|从事区块链大半年，最近刚看完tornado cash，所以想更深入了解一下zk，zk大佬想内推也可以找我
 Jude|区块链工程师|想深入了解一下原理和应用场景，特别是zk在跨链桥的应用
+0xKKv7|应用数学专业研究生|希望通过这次学习了解密码学前沿的应用场景、学习zkp协议的底层原理和zk电路的开发。
 Akagi201|合约+Rust| 已经有 zk 基础, 再系统学下, 希望学习相关数学以及看看一些基础论文. 在做 aleo miner 相关开发.
 Jackie|Ξ EVM ,Move 生态 开发 |web2 项目 架构 ，希望从深理解研究zk
 Meepo lipeng |web3项目的cofounder|程序员出身，比较喜欢研究区块链技术
